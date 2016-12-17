@@ -1,0 +1,51 @@
+/*category page */
+
+.item{
+	height: 180px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding: 10px;
+	background-color: grey;
+}
+
+.pic{
+	width: 75px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 2px;
+	overflow: hidden;
+}
+
+.thumbnail > img{
+	overflow: hidden;
+	border: 1px solid red;
+}
+
+
+.buttons{
+	text-align: right;
+	margin-top: 10px;
+}
+
+.photoShow >{
+	width: 250px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.photoShow >img{
+	width: 250px;
+	height: 300px;	
+}
+
+.footer{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: cornflowerblue;
+	padding-top: 15px;
+}
